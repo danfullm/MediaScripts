@@ -1,0 +1,54 @@
+2023-09-21 08:05:10,544 - Copying 11505178F to \\samba-val\media\batchzip-tom\11505178F
+2023-09-21 08:05:14,260 - Copying 11505182F to \\samba-val\media\batchzip-tom\11505182F
+2023-09-21 08:05:17,497 - Copying 11505200F to \\samba-val\media\batchzip-tom\11505200F
+2023-09-21 08:05:20,957 - Copying 11505210F to \\samba-val\media\batchzip-tom\11505210F
+2023-09-21 08:05:25,068 - Copying 11505234F to \\samba-val\media\batchzip-tom\11505234F
+2023-09-21 08:05:27,187 - Copying 11505318F to \\samba-val\media\batchzip-tom\11505318F
+2023-09-21 08:05:29,646 - Copying 11505446F to \\samba-val\media\batchzip-tom\11505446F
+2023-09-21 08:05:37,114 - Copying 11384644F to \\samba-val\media\batchzip-tom\11384644F
+2023-09-21 08:05:46,639 - Copying 11506205F to \\samba-val\media\batchzip-tom\11506205F
+2023-09-21 08:05:49,621 - Copying 11505445F to \\samba-val\media\batchzip-tom\11505445F
+2023-09-21 08:05:52,699 - Copying 11507456F to \\samba-val\media\batchzip-tom\11507456F
+2023-09-21 08:05:58,567 - Copying 11506109F to \\samba-val\media\batchzip-tom\11506109F
+2023-09-21 08:06:03,224 - Copying 11505161F to \\samba-val\media\batchzip-tom\11505161F
+2023-09-21 08:06:09,742 - Copying 11505165F to \\samba-val\media\batchzip-tom\11505165F
+2023-09-21 08:06:14,482 - Copying 11505169F to \\samba-val\media\batchzip-tom\11505169F
+2023-09-21 08:06:17,568 - Copying 11505172F to \\samba-val\media\batchzip-tom\11505172F
+2023-09-21 08:06:21,721 - Copying 11505173F to \\samba-val\media\batchzip-tom\11505173F
+2023-09-21 08:06:28,838 - Copying 11505174F to \\samba-val\media\batchzip-tom\11505174F
+2023-09-21 08:06:32,351 - Copying 11505179F to \\samba-val\media\batchzip-tom\11505179F
+2023-09-21 08:06:38,785 - Copying 11505194F to \\samba-val\media\batchzip-tom\11505194F
+2023-09-21 08:06:43,737 - Copying 11505193F to \\samba-val\media\batchzip-tom\11505193F
+2023-09-21 08:06:46,165 - Copying 11505199F to \\samba-val\media\batchzip-tom\11505199F
+2023-09-21 08:06:50,048 - Copying 11505211F to \\samba-val\media\batchzip-tom\11505211F
+2023-09-21 08:06:54,267 - Copying 11505241F to \\samba-val\media\batchzip-tom\11505241F
+2023-09-21 08:06:58,052 - Copying 11505348F to \\samba-val\media\batchzip-tom\11505348F
+2023-09-22 08:33:06,041 - Copying 11505178F to \\costar\POD\batchzip\11505178F
+2023-09-22 08:33:08,766 - Copying 11505182F to \\costar\POD\batchzip\11505182F
+2023-09-22 08:33:10,870 - Copying 11505200F to \\costar\POD\batchzip\11505200F
+2023-09-22 08:33:12,840 - Copying 11505210F to \\costar\POD\batchzip\11505210F
+2023-09-22 08:33:15,955 - Copying 11505234F to \\costar\POD\batchzip\11505234F
+2023-09-22 08:33:17,320 - Copying 11505318F to \\costar\POD\batchzip\11505318F
+2023-09-22 08:33:18,962 - Copying 11505446F to \\costar\POD\batchzip\11505446F
+2023-09-22 08:33:22,534 - Copying 11384644F to \\costar\POD\batchzip\11384644F
+2023-09-22 08:33:29,832 - Copying 11506205F to \\costar\POD\batchzip\11506205F
+2023-09-22 08:33:31,829 - Copying 11505445F to \\costar\POD\batchzip\11505445F
+2023-09-22 08:33:31,830 - Processed 10 folders
+2023-09-22 08:34:46,228 - Copying 11507456F to \\costar\POD\batchzip\11507456F
+2023-09-22 08:34:51,474 - Copying 11506109F to \\costar\POD\batchzip\11506109F
+2023-09-22 08:34:53,733 - Copying 11505161F to \\costar\POD\batchzip\11505161F
+2023-09-22 08:34:57,281 - Copying 11505165F to \\costar\POD\batchzip\11505165F
+2023-09-22 08:34:59,128 - Copying 11505169F to \\costar\POD\batchzip\11505169F
+2023-09-22 08:35:00,718 - Copying 11505172F to \\costar\POD\batchzip\11505172F
+2023-09-22 08:35:02,619 - Copying 11505173F to \\costar\POD\batchzip\11505173F
+2023-09-22 08:35:06,053 - Copying 11505174F to \\costar\POD\batchzip\11505174F
+2023-09-22 08:35:07,957 - Copying 11505179F to \\costar\POD\batchzip\11505179F
+2023-09-22 08:35:11,471 - Copying 11505194F to \\costar\POD\batchzip\11505194F
+2023-09-22 08:35:11,472 - Processed 10 folders
+2023-09-22 09:06:54,021 - Processed 500 folders
+2023-09-22 10:10:39,540 - Processed 500 folders
+2023-09-22 11:04:44,185 - Processed 500 folders
+2023-09-22 11:59:38,516 - Processed 500 folders
+2023-09-22 12:58:16,939 - Processed 500 folders
+2023-09-22 14:12:33,205 - Processed 500 folders
+2023-09-22 15:13:52,595 - Processed 173 folders
