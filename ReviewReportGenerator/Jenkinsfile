@@ -1,0 +1,38 @@
+pipeline {
+  agent any
+  stages {
+    stage('Build Docker Image') {
+      agent {
+        node {
+          label 'azure'
+        }
+
+      }
+      steps {
+        sh '''az login --identity
+az acr login --name jwpepper'''
+        sh './ci-build.sh'
+      }
+    }
+
+    stage('Deploy to dev-jwplabs1') {
+      agent {
+        node {
+          label 'dev-jwplabs1'
+        }
+
+      }
+      steps {
+        sh '''kubectl rollout restart deployment/pepper-review-sheet -n dan
+kubectl get pods -n dan'''
+      }
+    }
+
+    stage('Build Complete') {
+      steps {
+        office365ConnectorSend(message: 'New Review Build', status: 'Complete & Deployed to dev-jwplabs1', webhookUrl: 'https://jwpepperandson.webhook.office.com/webhookb2/66ebf8d6-7499-4808-8cd4-d0ef7ba34908@2719a53a-5fb1-4175-b5f1-b04d7a412ee3/IncomingWebhook/dfdfcbd1de504a698eb26dfe0a4ce2d8/d1c11fc7-f574-4663-a2d6-f19c4f6b185f')
+      }
+    }
+
+  }
+}
